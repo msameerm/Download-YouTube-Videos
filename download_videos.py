@@ -22,7 +22,7 @@ def download_video(url, save_path):
 
 def main():
 
-    num_links = int(input("How many links do you want to add? "))
+    num_links = int(input("How many Videos you want to download? "))
 
     urls = []
 
